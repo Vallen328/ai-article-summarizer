@@ -20,13 +20,13 @@ Choose between a **Brief Summary**, a **Detailed Summary**, or **Bullet Points**
 ## 📸 Screenshots
 
 ### Bullet Points
-![Bullet Summary](screenshots/screenshot(483).png)
+![Bullet Summary](screenshots/Screenshot(483).png)
 
 ### Detailed Summary
-![Detailed Summary](screenshots/screenshot(484).png)
+![Detailed Summary](screenshots/Screenshot(484).png)
 
 ### Brief Summary
-![Brief Summary](screenshots/screenshot(485).png)
+![Brief Summary](screenshots/Screenshot(485).png)
 
 ---
 
